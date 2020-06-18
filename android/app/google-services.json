@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1035162343485",
+    "firebase_url": "https://epocket-450b6.firebaseio.com",
+    "project_id": "epocket-450b6",
+    "storage_bucket": "epocket-450b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035162343485:android:6ef88b729bca0dd3aef254",
+        "android_client_info": {
+          "package_name": "com.anslabs.epocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035162343485-mr927fu484l3sgdqr91iuljd89lkh8pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anslabs.epocket",
+            "certificate_hash": "68c2ddfa9940655b465ab799524c1922a342d4a7"
+          }
+        },
+        {
+          "client_id": "1035162343485-pfo0hpumcnn5mpscu8hmvbhi9ai4tm26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxMZEg7WIUlRLyFX4Ggu7lB-ksGKFKnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035162343485-pfo0hpumcnn5mpscu8hmvbhi9ai4tm26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
